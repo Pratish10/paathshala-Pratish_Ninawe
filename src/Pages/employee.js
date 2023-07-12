@@ -43,7 +43,7 @@ const Employee = () => {
       setTaskDescription('');
       setResources('');
       alert("Employee Created");
-      // navigate('/employee-list');
+      navigate('/employee-list');
     } catch (error) {
       console.log("Error creating employees: ", error);
     }
