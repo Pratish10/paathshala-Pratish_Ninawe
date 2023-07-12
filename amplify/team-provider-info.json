@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-formassignment-dev-141754-authRole",
+      "UnauthRoleArn": "arn:aws:iam::359610038085:role/amplify-formassignment-dev-141754-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::359610038085:role/amplify-formassignment-dev-141754-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-formassignment-dev-141754-deployment",
+      "UnauthRoleName": "amplify-formassignment-dev-141754-unauthRole",
+      "StackName": "amplify-formassignment-dev-141754",
+      "StackId": "arn:aws:cloudformation:us-east-1:359610038085:stack/amplify-formassignment-dev-141754/cd91fbe0-2090-11ee-93dd-12069bbd1d21",
+      "AmplifyAppId": "d1tjoiqyo3xb"
+    },
+    "categories": {
+      "api": {
+        "formassignment": {}
+      }
+    }
+  }
+}

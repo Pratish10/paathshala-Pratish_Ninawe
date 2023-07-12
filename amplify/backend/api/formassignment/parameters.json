@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "formassignment",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-07-12T09:18:00.502Z"
+}
