@@ -135,6 +135,11 @@ align-items: center;
   .btn{
     width: 300px;
   }
+  @media only screen and (max-width: 600px) {
+  .btn {
+    width: 150px;
+  }
+}
   
   .txtarea{
     margin-bottom: 30px;
